@@ -25,6 +25,10 @@
         
         [self addChild:myLabel];
     }
+    
+    
+    
+    
     return self;
 }
 
